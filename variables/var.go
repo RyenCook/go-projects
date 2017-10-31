@@ -63,4 +63,6 @@ func main() {
     var j, k string = "Hello", "World"
     l := " " // Shorthand for var l = " "
     fmt.Println(j+l+k);
+
+    const m int = 1; // Constant decleration and instantiation
 }
